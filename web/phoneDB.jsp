@@ -20,7 +20,7 @@
                 } else if (brand.equals("Samsung")) {
                     phones.add("galaxy express");
                     phones.add("galaxy S3");
-                    phones.add("sh毛毛毛毛毛");
+                    phones.add("hbghghjggjjhgjg");
                 }
 
                 return phones;
